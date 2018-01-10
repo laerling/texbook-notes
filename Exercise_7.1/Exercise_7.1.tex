@@ -1,0 +1,9 @@
+\& jumps to the next tabstop. That is, it produces an error because there is no tabstop yet.
+' doesn't do anything.
+\$ opens a math environment (which is not even closed).
+\% terminates an input line, without introducing the blank space that \TeX\ ordinarily inserts when moving to the next line of input. Also, everything after it up to the next linebreak is ignored. So {\tt" gain"} will be ignored.
+The complete output would would be the following:
+
+Procter & Gamble's stock climbed to $2, a 10% gain.
+
+\end

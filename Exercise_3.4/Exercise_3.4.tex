@@ -1,0 +1,13 @@
+Number of possible characters except the escape character:
+
+A-Z = 26
+a-z = 26
+========
+      62
+
+Length 2: After an escape character there can be 256 8-bit
+characters. That is 256 possible control sequences of length 2.
+
+Length 3: Both characters after the escape character have to be
+[A-Za-z], so we have 52*52 = 2704 possible control sequences of
+length 3.
