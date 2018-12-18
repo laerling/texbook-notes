@@ -8,5 +8,5 @@ I don't end the files with `\end`, because oftentimes I want to experiment a bit
 #### References
 
 - [TeX core primitives](https://www.tug.org/utilities/plain/cseq.html) &ndash; Does not contain control sequences of plain TeX
-- [PlainTeX cheatsheet](https://infohost.nmt.edu/tcc/help/pubs/texcrib.pdf) &ndash; Does not control core primitives
+- [PlainTeX cheatsheet](https://infohost.nmt.edu/tcc/help/pubs/texcrib.pdf) &ndash; Does not contain core primitives
 - [TeX stackexchange](https://tex.stackexchange.com/)
