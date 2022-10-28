@@ -1,4 +1,4 @@
-#### These are solutions to the exercises from the TeXbook by Donald E. Knuth.
+#### These are notes to the TeXbook by Donald E. Knuth., as well as solutions to the exercises
 
 I only solve the unmarked exercises as of now. Marked exercises are meant for advanced TeX users.
 
